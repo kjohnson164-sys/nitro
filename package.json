@@ -1,0 +1,14 @@
+{
+  "name": "nitrotype-client",
+  "version": "1.0.0",
+  "description": "A simple NitroType API client",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
